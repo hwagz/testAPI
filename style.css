@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+}
+
+.input{
+  padding: 5px;
+}
+
+.click{
+  padding: 5px;
+  background-color: fuchsia;
+  height: 20px;
+}
